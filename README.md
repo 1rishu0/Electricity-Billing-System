@@ -17,3 +17,10 @@ Electricity Billing System is a Software-Based Application.
 * This Project aims at serving the department of electricity by computerizing the billing system.
 * It mainly focuses on the calculation of units consumed during the specified time and the money to be charged by the electricity offices.
 * This Computerized System will make the overall billing system easy, accessible, comfortabel, and effective for consumers.
+
+# Software Requirements
+
+* **Operating System :-**  Windows 10
+* **Software :-**  Microsoft SQL Server
+* **Front End :-**  Java Core/Swings (NetBeans)
+* **Back End :-**  MySQL

@@ -24,3 +24,4 @@ Electricity Billing System is a Software-Based Application.
 * **Software :-**  Microsoft SQL Server
 * **Front End :-**  Java Core/Swings (NetBeans)
 * **Back End :-**  MySQL
+* **Libraries :-**  MySQL Java Connector, JDK 21, rs2xml(DbUtils) 
